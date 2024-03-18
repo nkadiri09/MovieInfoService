@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/movies")
+@RequestMapping("/v1/movies")
 @Slf4j
 public class MovieController {
 
